@@ -1,0 +1,7 @@
+name: ResAutoFly
+version: '${version}'
+main: me.summerunni.resautofly.ResAutoFly
+api-version: 1.18
+prefix: ResAutoFly
+depend: [ Residence ]
+authors: [ summerunni ]
